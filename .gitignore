@@ -1,0 +1,14 @@
+bin/
+obj/
+publish/
+Logs/
+*.pdb
+*.zip
+*.7z
+*.rar
+*.log
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
