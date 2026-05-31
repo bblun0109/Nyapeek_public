@@ -5,7 +5,7 @@
 
 English | [繁體中文](README.zh-TW.md)
 
-`License: TBD` · `Platform: Windows 10/11` · `.NET 8`
+`License: Apache-2.0` · `Platform: Windows 10/11` · `.NET 8`
 
 </div>
 
@@ -111,8 +111,7 @@ Additional thanks to the open-source projects that make Nyapeek possible:
 
 ## License
 
-`License: TBD` — a formal LICENSE file will be added in a future release.
-
+This project is licensed under the Apache-2.0 license. See the LICENSE and NOTICE files.
 ---
 
 <div align="center">
