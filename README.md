@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="nyapeek-logo.png" alt="Nyapeek" width="160" />
 
 # Nyapeek
 
