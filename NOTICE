@@ -1,0 +1,10 @@
+Nyapeek
+Copyright 2026 bblun0109
+
+This product includes software derived from Translumo
+(https://github.com/Danily07/Translumo), Copyright Danil Iushkov,
+licensed under the Apache License, Version 2.0.
+
+Modifications by bblun0109 include: additional translation backends
+(OpenRouter, Cerebras, Bai), translation history, an updated design
+system, and encrypted local API key storage.
